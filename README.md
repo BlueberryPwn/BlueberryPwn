@@ -16,6 +16,6 @@
 
 <div align="center">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chasacademy-nshoan-abdlwafa&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chasacademy-nshoan-abdlwafa&layout=compact&theme=transparent)
   
 </div>
