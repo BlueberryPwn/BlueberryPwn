@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hello and welcome to my profile!</h1>
 
-<!--
-**ChasAcademy-Nshoan-Abdlwafa/ChasAcademy-Nshoan-Abdlwafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="center">My name is Nshoan Abdlwafa. I am an aspiring full stack developer currently studying at Chas Academy.<br>I have experience in .NET, SQL, JavaScript as well as React.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  
+  [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,react,html,css,git,github&perline=4)](https://skillicons.dev)
+  
+</div>
+
+###
+
+<div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chasacademy-nshoan-abdlwafa&layout=compact)
+  
+</div>
