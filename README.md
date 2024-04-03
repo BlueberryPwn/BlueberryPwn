@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Nshoan Abdlwafa. I am an aspiring full stack developer currently studying at Chas Academy.<br>I have experience in .NET, SQL, JavaScript as well as React.</p>
+<p align="center">My name is Nshoan Abdlwafa. I am an aspiring fullstack developer currently studying at Chas Academy.</p>
 
 ###
 
