@@ -1,8 +1,8 @@
-<h1 align="center">Hello and welcome to my profile!</h1>
+<h1 align="center">Welcome to my profile!</h1>
 
 ###
 
-<p align="center">Hi, my name is Nshoan Abdlwafa and I am a fullstack developer.</p>
+<p align="center">Hi, my name is Nshoan and I am a fullstack developer.</p>
 
 ###
 
