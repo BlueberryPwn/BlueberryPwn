@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Nshoan Abdlwafa. I am an aspiring full stack developer.</p>
+<p align="center">Hi, my name is Nshoan Abdlwafa and I am a fullstack developer.</p>
 
 ###
 
@@ -16,6 +16,6 @@
 
 <div align="center">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chasacademy-nshoan-abdlwafa&layout=compact&theme=transparent)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blueberrypwn&layout=compact&theme=transparent)
   
 </div>
