@@ -1,21 +1,17 @@
-<h1 align="center">Welcome to my profile!</h1>
-
-###
-
-<p align="center">Hi, my name is Nshoan and I am a fullstack developer.</p>
-
-###
-
 <div align="center">
-  
-  [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,react,html,css,postgres,git&perline=4)](https://skillicons.dev)
-  
-</div>
+
+<h1>Hi there!</h1>
 
 ###
 
-<div align="center">
+<p>My name is Nshoan and I'm a fullstack developer.</p>
+
+###
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blueberrypwn&layout=compact&theme=transparent)
+  [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,css,html,js,react,git,github,postman,powershell&perline=4)](https://github.com/tandpfun/skill-icons)
+
+###
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blueberrypwn&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
